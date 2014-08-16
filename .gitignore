@@ -4,6 +4,7 @@
 
 # Files for the Dalvik VM
 *.dex
+!/assets/*.dex
 
 # Java class files
 *.class
